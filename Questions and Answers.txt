@@ -1,0 +1,21 @@
+Questions:
+1)Create a chart to find the profit by month.
+2)Create a chart to find the sum of quantity sold by payment mode.
+3)Create a chart to find the sum of quantity sold by category.
+4)Create a chart to find the sum of profit by Sub-category of top two sub-categories.
+5)Create a chart to find the sum of amount spent of top four customers.
+6)Do a forecast to find the quantity sold in next 20 days?
+7)Do a forecast to find the profit generated in the next 20 days?
+8)Create a chart to find the sum of quantity and sum of profit by state?
+
+9)What is the sum of amount sold?
+Ans- 438K
+
+10)What is the sum of Quantity sold?
+Ans- 121K
+
+11)What is the total profit made?
+Ans- 37k
+
+12)What is the Average Order Value (AOV)?
+Ans- 121K
